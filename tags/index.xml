@@ -4,11 +4,8 @@
     <title>Tags on Chester Leung</title>
     <link>https://chesterleung.com/tags/</link>
     <description>Recent content in Tags on Chester Leung</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://chesterleung.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://chesterleung.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
